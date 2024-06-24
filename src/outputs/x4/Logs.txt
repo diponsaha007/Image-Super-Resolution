@@ -1,0 +1,30 @@
+Device: cuda:0
+Training from scratch
+epoch: 0/13: : 5379212it [1:07:59, 1318.73it/s, loss=0.001862]
+eval psnr: 29.42
+epoch: 1/13: : 5379212it [1:05:51, 1361.43it/s, loss=0.001779]
+eval psnr: 29.18
+epoch: 2/13: : 5379212it [1:05:20, 1372.05it/s, loss=0.001767]
+eval psnr: 29.44
+epoch: 3/13: : 5379212it [1:24:28, 1061.23it/s, loss=0.001761]
+eval psnr: 29.40
+epoch: 4/13: : 5379212it [1:04:33, 1388.75it/s, loss=0.001756]
+eval psnr: 29.54
+epoch: 5/13: : 5379212it [1:03:39, 1408.47it/s, loss=0.001752]
+eval psnr: 29.58
+epoch: 6/13: : 5379212it [1:04:58, 1379.83it/s, loss=0.001750]
+eval psnr: 29.37
+epoch: 7/13: : 5379212it [1:05:31, 1368.12it/s, loss=0.001747]
+eval psnr: 29.48
+epoch: 8/13: : 5379212it [1:06:20, 1351.56it/s, loss=0.001745]
+eval psnr: 29.40
+epoch: 9/13: : 5379212it [1:04:15, 1395.19it/s, loss=0.001743]
+eval psnr: 29.52
+epoch: 10/13: : 5379212it [1:05:15, 1374.00it/s, loss=0.001742]
+eval psnr: 29.57
+epoch: 11/13: : 5379212it [1:05:58, 1358.74it/s, loss=0.001740]
+eval psnr: 29.54
+epoch: 12/13: : 5379212it [1:04:22, 1392.58it/s, loss=0.001739]
+eval psnr: 29.55
+epoch: 13/13: : 5379212it [1:12:46, 1231.98it/s, loss=0.001738]
+eval psnr: 29.60
